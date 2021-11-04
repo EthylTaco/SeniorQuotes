@@ -13,23 +13,58 @@ Scion, from Worm
 "We're s- so very small, in the end."
 Taylor Hebert, from Worm
 
-"Never go in against a Caecillian, when death is on the line! HAHAHAHA *dies*"
+"Never go in against a Caecillian, when death is on the line!"
 - Wallace Shawn, from The Princess Bride
 
 "TRUST NO ONE"
 - Stanford Pines, from Gravity Falls
 
-"what doesn't kill ya, usually succeeds in a second attempt."
-- Eugene Krabs
+  Quotes from Spongebob Squarepants 
+  {
+    "what doesn't kill ya, usually succeeds in a second attempt."
+    - Eugene Krabs
 
-"I'm ugly and I'm proud!"
-- Spongebob Squarepants
+    "I'm ugly and I'm proud!"
+    - Spongebob Squarepants
 
-"Always follow your heart, unless your heart is bad with directions."
-- Spongebob Squarepants
+    "Always follow your heart, unless your heart is bad with directions."
+    - Spongebob Squarepants
 
-"Dumb people are always blissfully unaware of how dumb they really are."
-- Patrick Star.
+    "Dumb people are always blissfully unaware of how dumb they really are."
+    - Patrick Star.
+  }
 
 “I believe these words came from the Pokémon movie... 'Life can be a challenge. Life can seem impossible. It’s never easy when there’s so much on the line. But you and I can make a difference. There’s a mission just for you and me.'”
 -Herman Cain (quoting "The Power of One" by Donna Summer)
+
+STEM Academy? is that where they teach you how to be a plant?"
+-Landon Staples
+
+"Smile, or someone else will."
+- Unknown
+    Parks & Rec Quotes (mostly just Nick Offerman Quotes)
+    {
+      “I have no idea what I’m doing but I know I do it really, really well.”
+      - Andy Dwyer
+      
+      “Butter is my favorite food.”
+      - Andy Dwyer
+      
+      “When people get too chummy with me, I like to call them by the wrong name to let them know I don’t really care about them.”
+      - Ron Swanson
+      
+      “There’s only one thing I hate more than lying: skim milk. Which is water that’s lying about being milk.”
+      - Ron Swanson
+      
+      “Any dog under 50 pounds is a cat, and cats are useless.”
+      - Ron Swanson
+       
+      “The whole point of this country is if you want to eat garbage, balloon up to 600 pounds and die of a heart attack at 43, you can! You are free to do so. To me, that’s beautiful.”
+      - Ron Swanson
+
+      “Never half-ass two things. Whole-ass one thing.”
+      - Ron Swanson
+      
+      “Friends: one to three is sufficient.”
+      - Ron Swanson
+    }
