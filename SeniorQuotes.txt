@@ -1,8 +1,8 @@
-"Nerds are the second scariest group that humanity's ever produced. Stupid people [are the first]."
--Mags Holt, From Pact
-
 "When Life gives you lemons, don't make lemonade. Make Life take the lemons back! GET MAD! I DON'T WANT YOUR DAMN LEMONS, WHAT AM I SUPPOSED TO DO WITH THESE!? DEMAND TO SEE LIFE'S MANAGER! MAKE LIFE RUE THE DAY IT THOUGHT IT COULD GIVE *CAVE JOHNSON* LEMONS!! DO YOU KNOW WHO I AM? I'M THE MAN WHO'S GONNA BURN YOUR HOUSE DOWN! WITH THE LEMONS! I'M GONNA GET MY ENGINEERS TO INVENT A COMBUSTIBLE LEMON, THAT BURNS YOUR HOUSE DOWN!"
 - Cave Johnson, from Portal 2
+
+"Nerds are the second scariest group that humanity's ever produced. Stupid people [are the first]."
+-Mags Holt, From Pact
 
 "If at first you don't succeed, fail five more times."
 -GLaDOS, from Portal 2
@@ -16,8 +16,41 @@ Taylor Hebert, from Worm
 "Never go in against a Caecillian, when death is on the line!"
 - Vizzini, from The Princess Bride
 
+"I'm a what?"
+- Harry Potter
+
 "TRUST NO ONE"
 - Stanford Pines, from Gravity Falls
+
+"Bread makes you FAT?!"
+-Scott Pilgrim 
+
+“I believe these words came from the Pokémon movie... 'Life can be a challenge. Life can seem impossible. It’s never easy when there’s so much on the line. But you and I can make a difference. There’s a mission just for you and me.'”
+-Herman Cain (quoting "The Power of One" by Donna Summer)
+
+"Smile, or someone else will."
+- Unknown
+
+    Quotes from STEM Students 
+    {
+     "STEM Academy? is that where they teach you how to be a plant?"
+     - Landon Staples
+     
+     “I didn't figure out the mirror trick until over a year of parking by hitting the gas until the curb stopped me, then reversing half a foot. I like to take this strategy in my life as well.”
+     — Landon Staples
+     
+     "."
+     -Nathan Watson
+     
+     "I want my quote to just be a single period."
+     -Nathan Watson
+     
+     "everyone thinks the universe ends with a big freeze or a big bang. They're both wrong, it ends with 'e.'"
+     -Nathan Watson
+     
+     "What do you mean Costco isn't a country?!"
+     -Nathan Watson
+    }      
 
   Quotes from Spongebob Squarepants 
   {
@@ -34,14 +67,6 @@ Taylor Hebert, from Worm
     - Patrick Star.
   }
 
-“I believe these words came from the Pokémon movie... 'Life can be a challenge. Life can seem impossible. It’s never easy when there’s so much on the line. But you and I can make a difference. There’s a mission just for you and me.'”
--Herman Cain (quoting "The Power of One" by Donna Summer)
-
-"STEM Academy? is that where they teach you how to be a plant?"
-- Landon Staples
-
-"Smile, or someone else will."
-- Unknown
     Parks & Rec Quotes (mostly just Nick Offerman Quotes)
     {
       “I have no idea what I’m doing but I know I do it really, really well.”
