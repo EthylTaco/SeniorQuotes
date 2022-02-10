@@ -54,16 +54,25 @@ Taylor Hebert, from Worm
      — Landon Staples
      
      "."
-     -Nathan Watson
+     - Nathan Watson
      
      "I want my quote to just be a single period."
-     -Nathan Watson
+     - Nathan Watson
      
      "everyone thinks the universe ends with a big freeze or a big bang. They're both wrong, it ends with 'e.'"
-     -Nathan Watson
+     - Nathan Watson
      
      "What do you mean Costco isn't a country?!"
-     -Nathan Watson
+     - Nathan Watson
+     
+     "At my old school,... the cheerleaders would always get shot at every other party they went to."
+     - Ellen Garrett
+     
+     "my favorite thing is to go to Walmart-- And judge..."
+     - Ellen Garrett
+     
+     "This mustard is gonna allow me to do some pretty cool stuff."
+     - Kyle Parks
     }      
 
   Quotes from Spongebob Squarepants 
@@ -79,6 +88,9 @@ Taylor Hebert, from Worm
 
     "Dumb people are always blissfully unaware of how dumb they really are."
     - Patrick Star.
+    
+    "We serve food here."
+    - Squidward Tentacles
   }
 
     Parks & Rec Quotes (mostly just Nick Offerman Quotes)
